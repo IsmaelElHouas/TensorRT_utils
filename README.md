@@ -1,6 +1,6 @@
 # TensorRT_utils
 
--Utils developed during research in TensorRT
+- Utils developed during research in TensorRT
 
 - Conversion of VGG19 Openpose caffe model to TRT engine
 
